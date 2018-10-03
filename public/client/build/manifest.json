@@ -1,0 +1,4 @@
+{
+  "build/app.js": "http://127.0.0.1:3000/build/app.js",
+  "build/app.css": "http://127.0.0.1:3000/build/app.css"
+}

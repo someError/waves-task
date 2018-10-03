@@ -1,0 +1,21 @@
+.c-form--user {
+  border-bottom: solid 2px #2196f3;
+  background: #eee;
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.c-form__col {
+  margin-right: 20px;
+}
+
+.c-modal .c-form__col {
+  margin: 0 0 20px;
+}
+
+.c-modal .c-form--user {
+  background: transparent;
+  border: none;
+  display: block;
+}
