@@ -1,7 +1,7 @@
 ##### Установка
  1) mongoDB `brew update; brew install mongodb; mkdir -p /data/db`
  
- 2) установка зависимостей `npm install`
+ 2) в проекте `npm i`
  
 #### Запуск
 запускаем mongo - `mongo --port 27017`
