@@ -1,7 +1,9 @@
 ##### Установка
- 1) mongoDB `brew update; brew install mongodb; mkdir -p /data/db`
+ mongoDB
+ mac os `brew update; brew install mongodb; mkdir -p /data/db`
+ windows https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
  
- 2) в проекте `npm i`
+ в проекте `npm i`
  
 #### Запуск
 запускаем mongo - `mongo --port 27017`
