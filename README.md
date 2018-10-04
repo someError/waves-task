@@ -1,6 +1,6 @@
 ##### Установка
  mongoDB
- mac os `brew update; brew install mongodb; mkdir -p /data/db`
+ mac os `brew update; brew install mongodb; mkdir -p /data/db`;
  windows https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
  
  в проекте `npm i`
